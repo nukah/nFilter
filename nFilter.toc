@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cffff3300n|r|cffffffffFilter|r
+## Author: nuke
+## Version: b.0.4
+## Notes: rewrite rFilter2/bFilter
+nFilter.lua
+spells.lua
